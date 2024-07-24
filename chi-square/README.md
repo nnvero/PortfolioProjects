@@ -4,7 +4,7 @@
 
 #### Description:
 
-Welcome to the Chi-Square program, a powerful tool designed to quickly validate predictions about genetic populations. But first, let's delve into the meaning of the program's name.
+Welcome to the Chi-Square program, a tool designed to quickly validate predictions about genetic populations. But first, let's delve into the meaning of the program's name.
 
 ### What is Chi?
 
